@@ -9,7 +9,7 @@
                 <div class="card">
                     <div class="card-header">
                         <h4>Patient Details
-                            <a href="{{ url('/') }}" class="btn btn-secondary float-end">Back</a>
+                            <a href="{{ url('patients') }}" class="btn btn-secondary float-end">Back</a>
                         </h4>
                     </div>
                     <div class="card-body">
